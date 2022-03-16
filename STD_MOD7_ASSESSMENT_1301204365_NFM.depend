@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1635819997 source:e:\kuliyeah\semester 3\praktikum\std_mod7_assessment_1301204365_nfm\main.cpp
+	"SLL.h"
+	<iostream>
+
+1635820398 e:\kuliyeah\semester 3\praktikum\std_mod7_assessment_1301204365_nfm\sll.h
+	<iostream>
+
+1635820663 source:e:\kuliyeah\semester 3\praktikum\std_mod7_assessment_1301204365_nfm\sll.cpp
+	"SLL.h"
+
+1635820663 source:e:\kuliyeah\semester 3\praktikum\std_mod7_assessment_1301204365_if4408_nfm\sll.cpp
+	"SLL.h"
+
+1635820398 e:\kuliyeah\semester 3\praktikum\std_mod7_assessment_1301204365_if4408_nfm\sll.h
+	<iostream>
+
